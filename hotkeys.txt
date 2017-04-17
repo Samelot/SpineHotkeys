@@ -1,0 +1,186 @@
+--- General ---
+Undo: cmd + Z
+Redo: cmd + shift + Z
+Setup/Animate Mode: TAB
+Zoom To Fit: cmd + F
+Zoom To 100%:
+Lock Zoom: 
+Fullscreen: cmd + shift + opt + F
+Always On Top: cmd + shift + opt + T
+Instant Tooltips: F1
+Hotkey Popups: cmd + shift + K
+Pan Drag: 
+Zoom Drag: 
+Pan Move: SPACE
+Zoom Move: Z
+--- Views ---
+Minimize Views: F9
+Animations View: opt + A
+Dopesheet View: opt + D
+Ghosting View: opt + H
+Graph View: opt + G
+Metrics View: opt + M
+Outline View: opt + O
+Playback View: opt + P
+Slot Color View: opt + C
+Timeline View: opt + L
+Tree View: opt + T
+Weights View: opt + W
+--- Tools ---
+Shear Tool: X
+Scale Tool: R
+Rotate Tool: E
+Translate Tool: W
+Pose Tool: P
+Create Tool: N
+Weights Tool: 
+Last Tool: ESCAPE
+Local Axes: 
+Parent Axes: 
+World Axes: 
+Bone Compensation: B
+Image Compensation: I
+Nudge Up: shift + UP
+Nudge Up (10): UP
+Nudge Down: shift + DOWN
+Nudge Down (10): DOWN
+Nudge Left: shift + LEFT
+Nudge Left (10): LEFT
+Nudge Right: shift + RIGHT
+Nudge Right (10): RIGHT
+Hide Selection: 
+--- Options ---
+Select Bones: cmd + shift + B
+Show Bones: cmd + B
+Bone Names: cmd + shift + opt + B
+Select Images: cmd + shift + I
+Show Images: cmd + I
+Image Names: cmd + shift + opt + I
+Select Others: 
+Show Others: 
+Other Names: 
+--- Selection ---
+Deselect: cmd + D
+Store Selection 0: cmd + 0
+Store Selection 1: cmd + 1
+Store Selection 2: cmd + 2
+Store Selection 3: cmd + 3
+Store Selection 4: cmd + 4
+Store Selection 5: cmd + 5
+Store Selection 6: cmd + 6
+Store Selection 7: cmd + 7
+Store Selection 8: cmd + 8
+Store Selection 9: cmd + 9
+Set Selection 0: 0
+Set Selection 1: 1
+Set Selection 2: 2
+Set Selection 3: 3
+Set Selection 4: 4
+Set Selection 5: 5
+Set Selection 6: 6
+Set Selection 7: 7
+Set Selection 8: 8
+Set Selection 9: 9
+Cut: cmd + X
+Cut: shift + DELETE
+Copy: cmd + C
+Copy: cmd + INSERT
+Paste: cmd + V
+Paste: shift + INSERT
+Delete: DELETE
+Delete: BACKSPACE
+Rename: F2
+Visibility: H
+Draw Order Down: MINUS
+Draw Order Down (5): shift + MINUS
+Draw Order Up: PLUS
+Draw Order Up: EQUALS
+Draw Order Up (5): shift + PLUS
+Draw Order Up (5): shift + EQUALS
+Replace: F4
+Parent: cmd + shift + UP
+Child: cmd + shift + DOWN
+Previous Sibling: cmd + shift + LEFT
+Next Sibling: cmd + shift + RIGHT
+Expand/Collapse: cmd + shift + ENTER
+Parent Bone: cmd + UP
+Child Bone: cmd + DOWN
+Previous Sibling Bone: cmd + LEFT
+Next Sibling Bone: cmd + RIGHT
+--- Menu ---
+New Project: cmd + shift + N
+Open Project: cmd + O
+Save Project: cmd + S
+Save Project As: cmd + shift + S
+New Skeleton: cmd + N
+Import Project: 
+Import Data: 
+Export: cmd + E
+Repeat Last Export: cmd + shift + E
+Texture Packer: 
+Texture Unpacker: 
+Settings: cmd + COMMA
+--- Setup Mode ---
+Set Parent: cmd + P
+New Bone: 
+New Slot: 
+New Skin Placeholder: 
+New Bounding Box: 
+New Path: 
+--- New ---
+New Animation: 
+New Event: 
+New Skin: 
+New IK Constraint: 
+New Transform Constraint: 
+New Path Constraint: 
+--- Attachments ---
+Color: M
+Mesh - Freeze: 
+Mesh - Reset: 
+Mesh - Edit Mesh: 
+Edit Mesh - Modify: 
+Edit Mesh - Create: 
+Edit Mesh - Delete: 
+Edit Mesh - Deformed: 
+--- Animate Mode ---
+Next Animation: Y
+Previous Animation: T
+Auto Key: cmd + shift + A
+Lock Dopesheet: 
+Refresh Dopesheet: 
+Select Dopesheet Bones: 
+Key Shift: 
+Adjust Keys: 
+Offset Keys: 
+Current: 
+Set Loop Start: LEFT_BRACKET
+Set Loop End: RIGHT_BRACKET
+Ghosting: I
+--- Keying ---
+Key Edited: K
+Key Active: L
+Key Selected: cmd + L
+Key Dopesheet: cmd + shift + L
+Key Translation: 
+Key Rotation: 
+Key Scale: 
+Key Shear: 
+Key Color: 
+Key Attachment: 
+--- Playback ---
+Play Forward: D
+Play Backward: A
+Stop: 
+Repeat: cmd + R
+Stepped: 
+First Key: Q
+Last Key: 
+Next Key: shift + F
+Previous Key: shift + S
+Next Frame: F
+Next Frame (10): 
+Previous Frame: S
+Previous Frame (10): 
+Loop Start: cmd + LEFT_BRACKET
+Loop End: cmd + RIGHT_BRACKET
