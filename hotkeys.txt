@@ -3,7 +3,7 @@ Undo: cmd + Z
 Redo: cmd + shift + Z
 Setup/Animate Mode: TAB
 Zoom To Fit: cmd + F
-Zoom To 100%:
+Zoom To 100%: 
 Lock Zoom: 
 Fullscreen: cmd + shift + opt + F
 Always On Top: cmd + shift + opt + T
@@ -20,6 +20,7 @@ Dopesheet View: opt + D
 Ghosting View: opt + H
 Graph View: opt + G
 Metrics View: opt + M
+Mesh Tools View: opt + E
 Outline View: opt + O
 Playback View: opt + P
 Slot Color View: opt + C
@@ -153,7 +154,7 @@ Select Dopesheet Bones:
 Key Shift: 
 Adjust Keys: 
 Offset Keys: 
-Current: 
+Current: cmd + shift + F
 Set Loop Start: LEFT_BRACKET
 Set Loop End: RIGHT_BRACKET
 Ghosting: I
@@ -170,17 +171,17 @@ Key Color:
 Key Attachment: 
 --- Playback ---
 Play Forward: D
-Play Backward: A
-Stop: 
+Play Backward: 
+Stop: Q
 Repeat: cmd + R
 Stepped: 
-First Key: Q
+First Key: A
 Last Key: 
-Next Key: shift + F
-Previous Key: shift + S
-Next Frame: F
+Next Key: F
+Previous Key: S
+Next Frame: shift + F
 Next Frame (10): 
-Previous Frame: S
+Previous Frame: shift + S
 Previous Frame (10): 
 Loop Start: cmd + LEFT_BRACKET
 Loop End: cmd + RIGHT_BRACKET
